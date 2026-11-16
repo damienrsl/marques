@@ -1,0 +1,1059 @@
+[
+ {
+  "slug": "bonnets",
+  "titre": "Bonnets",
+  "date": "15/11/2026",
+  "n": 107,
+  "lien": "https://damienrsl.github.io/selections/bonnets/",
+  "url": "https://damienrsl.github.io/selections/bonnets/",
+  "produits": "sorties/bonnets/selection.json",
+  "marques": [
+   {
+    "nom": "New Era",
+    "slug": "new-era",
+    "dans_app": true,
+    "n": 9
+   },
+   {
+    "nom": "Butter Goods",
+    "slug": "butter-goods",
+    "dans_app": true,
+    "n": 8
+   },
+   {
+    "nom": "Norse Projects",
+    "slug": "norse-projects",
+    "dans_app": true,
+    "n": 6
+   },
+   {
+    "nom": "Universal Works",
+    "slug": "universal-works",
+    "dans_app": true,
+    "n": 6
+   },
+   {
+    "nom": "Folk",
+    "slug": "folk",
+    "dans_app": true,
+    "n": 6
+   },
+   {
+    "nom": "Pop Trading Company",
+    "slug": "pop-trading-company",
+    "dans_app": false,
+    "n": 6
+   },
+   {
+    "nom": "Stüssy",
+    "slug": "stussy",
+    "dans_app": true,
+    "n": 5
+   },
+   {
+    "nom": "Polar Skate Co",
+    "slug": "polar-skate-co",
+    "dans_app": false,
+    "n": 5
+   },
+   {
+    "nom": "Patta",
+    "slug": "patta",
+    "dans_app": true,
+    "n": 4
+   },
+   {
+    "nom": "Arte",
+    "slug": "arte",
+    "dans_app": true,
+    "n": 4
+   },
+   {
+    "nom": "Represent",
+    "slug": "represent",
+    "dans_app": true,
+    "n": 4
+   },
+   {
+    "nom": "Aimé Leon Dore",
+    "slug": "aime-leon-dore",
+    "dans_app": true,
+    "n": 4
+   },
+   {
+    "nom": "Nude Project",
+    "slug": "nude-project",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Thinking Mu",
+    "slug": "thinking-mu",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Ciele Athletics",
+    "slug": "ciele-athletics",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Hiking Patrol",
+    "slug": "hiking-patrol",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Tranquille Émile",
+    "slug": "tranquille-emile",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "Andersen-Andersen",
+    "slug": "andersen-andersen",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "Dime",
+    "slug": "dime",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Hast",
+    "slug": "hast",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Bonnegueule",
+    "slug": "bonnegueule",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Obey",
+    "slug": "obey",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Rains",
+    "slug": "rains",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Kotn",
+    "slug": "kotn",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Studio Nicholson",
+    "slug": "studio-nicholson",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Estudio Niksen",
+    "slug": "estudio-niksen",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Satisfy",
+    "slug": "satisfy",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Highland 2000",
+    "slug": "highland-2000",
+    "dans_app": false,
+    "n": 1
+   },
+   {
+    "nom": "Human With Attitude",
+    "slug": "human-with-attitude",
+    "dans_app": true,
+    "n": 1
+   },
+   {
+    "nom": "Colorful Standard",
+    "slug": "colorful-standard",
+    "dans_app": false,
+    "n": 1
+   }
+  ]
+ },
+ {
+  "slug": "boots-work-hiking",
+  "titre": "Workboots et hiking boots",
+  "date": "15/11/2026",
+  "n": 67,
+  "lien": "https://damienrsl.github.io/selections/boots-work-hiking/",
+  "url": "https://damienrsl.github.io/selections/boots-work-hiking/",
+  "produits": "sorties/boots-work-hiking/selection.json",
+  "marques": [
+   {
+    "nom": "Danner",
+    "slug": "danner",
+    "dans_app": true,
+    "n": 10
+   },
+   {
+    "nom": "Solovair",
+    "slug": "solovair",
+    "dans_app": false,
+    "n": 7
+   },
+   {
+    "nom": "Scarpa",
+    "slug": "scarpa",
+    "dans_app": false,
+    "n": 7
+   },
+   {
+    "nom": "Lems",
+    "slug": "lems",
+    "dans_app": false,
+    "n": 7
+   },
+   {
+    "nom": "Thursday Boot Co",
+    "slug": "thursday-boot-co",
+    "dans_app": false,
+    "n": 6
+   },
+   {
+    "nom": "KEEN",
+    "slug": "keen",
+    "dans_app": false,
+    "n": 5
+   },
+   {
+    "nom": "Palladium",
+    "slug": "palladium",
+    "dans_app": false,
+    "n": 5
+   },
+   {
+    "nom": "Red Wing",
+    "slug": "red-wing",
+    "dans_app": true,
+    "n": 5
+   },
+   {
+    "nom": "Dr. Martens",
+    "slug": "dr-martens",
+    "dans_app": true,
+    "n": 5
+   },
+   {
+    "nom": "Timberland",
+    "slug": "timberland",
+    "dans_app": true,
+    "n": 4
+   },
+   {
+    "nom": "La Sportiva",
+    "slug": "la-sportiva",
+    "dans_app": false,
+    "n": 2
+   },
+   {
+    "nom": "Heschung",
+    "slug": "heschung",
+    "dans_app": false,
+    "n": 1
+   },
+   {
+    "nom": "Wesco",
+    "slug": "wesco",
+    "dans_app": false,
+    "n": 1
+   },
+   {
+    "nom": "Blundstone",
+    "slug": "blundstone",
+    "dans_app": true,
+    "n": 1
+   },
+   {
+    "nom": "New Balance",
+    "slug": "new-balance",
+    "dans_app": true,
+    "n": 1
+   }
+  ]
+ },
+ {
+  "slug": "doudounes-fines",
+  "titre": "Doudounes fines",
+  "date": "15/11/2026",
+  "n": 58,
+  "lien": "https://damienrsl.github.io/selections/doudounes-fines/",
+  "url": "https://damienrsl.github.io/selections/doudounes-fines/",
+  "produits": "sorties/doudounes-fines/selection.json",
+  "marques": [
+   {
+    "nom": "Taion",
+    "slug": "taion",
+    "dans_app": false,
+    "n": 10
+   },
+   {
+    "nom": "Uniqlo",
+    "slug": "uniqlo",
+    "dans_app": true,
+    "n": 6
+   },
+   {
+    "nom": "Pyrenex",
+    "slug": "pyrenex",
+    "dans_app": false,
+    "n": 5
+   },
+   {
+    "nom": "Stüssy",
+    "slug": "stussy",
+    "dans_app": true,
+    "n": 5
+   },
+   {
+    "nom": "Hiking Patrol",
+    "slug": "hiking-patrol",
+    "dans_app": true,
+    "n": 5
+   },
+   {
+    "nom": "JOTT",
+    "slug": "jott",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Arte",
+    "slug": "arte",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Rains",
+    "slug": "rains",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Olow",
+    "slug": "olow",
+    "dans_app": false,
+    "n": 2
+   },
+   {
+    "nom": "Pop Trading Company",
+    "slug": "pop-trading-company",
+    "dans_app": false,
+    "n": 2
+   },
+   {
+    "nom": "Butter Goods",
+    "slug": "butter-goods",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Obey",
+    "slug": "obey",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Represent",
+    "slug": "represent",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Studio Nicholson",
+    "slug": "studio-nicholson",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Norse Projects",
+    "slug": "norse-projects",
+    "dans_app": true,
+    "n": 1
+   },
+   {
+    "nom": "Universal Works",
+    "slug": "universal-works",
+    "dans_app": true,
+    "n": 1
+   },
+   {
+    "nom": "Stan Ray",
+    "slug": "stan-ray",
+    "dans_app": false,
+    "n": 1
+   },
+   {
+    "nom": "Satisfy",
+    "slug": "satisfy",
+    "dans_app": true,
+    "n": 1
+   },
+   {
+    "nom": "Patta",
+    "slug": "patta",
+    "dans_app": true,
+    "n": 1
+   },
+   {
+    "nom": "Nude Project",
+    "slug": "nude-project",
+    "dans_app": true,
+    "n": 1
+   },
+   {
+    "nom": "Folk",
+    "slug": "folk",
+    "dans_app": true,
+    "n": 1
+   }
+  ]
+ },
+ {
+  "slug": "pull-en-laine",
+  "titre": "Pulls en laine",
+  "date": "15/11/2026",
+  "n": 193,
+  "lien": "https://damienrsl.github.io/selections/pull-en-laine/",
+  "url": "https://damienrsl.github.io/selections/pull-en-laine/",
+  "produits": "sorties/pull-en-laine/selection.json",
+  "marques": [
+   {
+    "nom": "Uniqlo",
+    "slug": "uniqlo",
+    "dans_app": true,
+    "n": 11
+   },
+   {
+    "nom": "Thinking Mu",
+    "slug": "thinking-mu",
+    "dans_app": true,
+    "n": 10
+   },
+   {
+    "nom": "Maison Labiche",
+    "slug": "maison-labiche",
+    "dans_app": false,
+    "n": 10
+   },
+   {
+    "nom": "Hast",
+    "slug": "hast",
+    "dans_app": true,
+    "n": 9
+   },
+   {
+    "nom": "Olow",
+    "slug": "olow",
+    "dans_app": false,
+    "n": 8
+   },
+   {
+    "nom": "Studio Nicholson",
+    "slug": "studio-nicholson",
+    "dans_app": true,
+    "n": 7
+   },
+   {
+    "nom": "5pm",
+    "slug": "5pm",
+    "dans_app": false,
+    "n": 7
+   },
+   {
+    "nom": "Patta",
+    "slug": "patta",
+    "dans_app": true,
+    "n": 7
+   },
+   {
+    "nom": "Armor Lux",
+    "slug": "armor-lux",
+    "dans_app": false,
+    "n": 7
+   },
+   {
+    "nom": "Hartford",
+    "slug": "hartford",
+    "dans_app": false,
+    "n": 7
+   },
+   {
+    "nom": "Bonnegueule",
+    "slug": "bonnegueule",
+    "dans_app": true,
+    "n": 6
+   },
+   {
+    "nom": "Drôle de Monsieur",
+    "slug": "drole-de-monsieur",
+    "dans_app": true,
+    "n": 6
+   },
+   {
+    "nom": "Sunspel",
+    "slug": "sunspel",
+    "dans_app": false,
+    "n": 6
+   },
+   {
+    "nom": "Aimé Leon Dore",
+    "slug": "aime-leon-dore",
+    "dans_app": true,
+    "n": 6
+   },
+   {
+    "nom": "A.P.C.",
+    "slug": "a-p-c",
+    "dans_app": true,
+    "n": 6
+   },
+   {
+    "nom": "Estudio Niksen",
+    "slug": "estudio-niksen",
+    "dans_app": true,
+    "n": 6
+   },
+   {
+    "nom": "Nude Project",
+    "slug": "nude-project",
+    "dans_app": true,
+    "n": 6
+   },
+   {
+    "nom": "Officine Générale",
+    "slug": "officine-generale",
+    "dans_app": false,
+    "n": 6
+   },
+   {
+    "nom": "Stüssy",
+    "slug": "stussy",
+    "dans_app": true,
+    "n": 5
+   },
+   {
+    "nom": "Represent",
+    "slug": "represent",
+    "dans_app": true,
+    "n": 5
+   },
+   {
+    "nom": "Universal Works",
+    "slug": "universal-works",
+    "dans_app": true,
+    "n": 5
+   },
+   {
+    "nom": "De Bonne Facture",
+    "slug": "de-bonne-facture",
+    "dans_app": false,
+    "n": 4
+   },
+   {
+    "nom": "Le Minor",
+    "slug": "le-minor",
+    "dans_app": false,
+    "n": 4
+   },
+   {
+    "nom": "Butter Goods",
+    "slug": "butter-goods",
+    "dans_app": true,
+    "n": 4
+   },
+   {
+    "nom": "Museum Garments",
+    "slug": "museum-garments",
+    "dans_app": true,
+    "n": 4
+   },
+   {
+    "nom": "Saint James",
+    "slug": "saint-james",
+    "dans_app": false,
+    "n": 4
+   },
+   {
+    "nom": "Tranquille Émile",
+    "slug": "tranquille-emile",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "Kotn",
+    "slug": "kotn",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Norse Projects",
+    "slug": "norse-projects",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Rains",
+    "slug": "rains",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Velour Garments",
+    "slug": "velour-garments",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Arte",
+    "slug": "arte",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Colorful Standard",
+    "slug": "colorful-standard",
+    "dans_app": false,
+    "n": 2
+   },
+   {
+    "nom": "Human With Attitude",
+    "slug": "human-with-attitude",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Folk",
+    "slug": "folk",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Le Slip Français",
+    "slug": "le-slip-francais",
+    "dans_app": false,
+    "n": 2
+   },
+   {
+    "nom": "Andersen-Andersen",
+    "slug": "andersen-andersen",
+    "dans_app": false,
+    "n": 1
+   },
+   {
+    "nom": "Atelier Tuffery",
+    "slug": "atelier-tuffery",
+    "dans_app": false,
+    "n": 1
+   }
+  ]
+ },
+ {
+  "slug": "veste-workwear-doublee",
+  "titre": "Vestes workwear doublées",
+  "date": "15/11/2026",
+  "n": 15,
+  "lien": "https://damienrsl.github.io/selections/veste-workwear-doublee/",
+  "url": "https://damienrsl.github.io/selections/veste-workwear-doublee/",
+  "produits": "sorties/veste-workwear-doublee/selection.json",
+  "marques": [
+   {
+    "nom": "Stüssy",
+    "slug": "stussy",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Taion",
+    "slug": "taion",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "Brixton",
+    "slug": "brixton",
+    "dans_app": false,
+    "n": 2
+   },
+   {
+    "nom": "Butter Goods",
+    "slug": "butter-goods",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Olow",
+    "slug": "olow",
+    "dans_app": false,
+    "n": 2
+   },
+   {
+    "nom": "Stan Ray",
+    "slug": "stan-ray",
+    "dans_app": false,
+    "n": 1
+   },
+   {
+    "nom": "Rains",
+    "slug": "rains",
+    "dans_app": true,
+    "n": 1
+   },
+   {
+    "nom": "Patta",
+    "slug": "patta",
+    "dans_app": true,
+    "n": 1
+   }
+  ]
+ },
+ {
+  "slug": "bonnets-xl",
+  "titre": "Bonnets · grande sélection",
+  "demande": "lance une grosse selection de bonnet avec toutes les marques de cette selection , fais ensuite  un syteme a la  tinder pour que je choissise les refs de ma selection",
+  "statut": "prête",
+  "date": "16/11/2026",
+  "maj": "2026-11-16T16:05:30+09:00",
+  "n": 180,
+  "lien": "https://damienrsl.github.io/selections/bonnets-xl/",
+  "url": "https://damienrsl.github.io/selections/bonnets-xl/",
+  "produits": "selections/bonnets-xl/selection.json",
+  "erreur": null,
+  "marques": [
+   {
+    "nom": "New Era",
+    "slug": "new-era",
+    "dans_app": true,
+    "n": 23
+   },
+   {
+    "nom": "Butter Goods",
+    "slug": "butter-goods",
+    "dans_app": true,
+    "n": 17
+   },
+   {
+    "nom": "Folk",
+    "slug": "folk",
+    "dans_app": true,
+    "n": 13
+   },
+   {
+    "nom": "Aimé Leon Dore",
+    "slug": "aime-leon-dore",
+    "dans_app": true,
+    "n": 12
+   },
+   {
+    "nom": "Norse Projects",
+    "slug": "norse-projects",
+    "dans_app": true,
+    "n": 8
+   },
+   {
+    "nom": "Universal Works",
+    "slug": "universal-works",
+    "dans_app": true,
+    "n": 8
+   },
+   {
+    "nom": "Obey",
+    "slug": "obey",
+    "dans_app": true,
+    "n": 8
+   },
+   {
+    "nom": "Ciele Athletics",
+    "slug": "ciele-athletics",
+    "dans_app": true,
+    "n": 8
+   },
+   {
+    "nom": "Represent",
+    "slug": "represent",
+    "dans_app": true,
+    "n": 7
+   },
+   {
+    "nom": "Pop Trading Company",
+    "slug": "pop-trading-company",
+    "dans_app": false,
+    "n": 6
+   },
+   {
+    "nom": "Stüssy",
+    "slug": "stussy",
+    "dans_app": true,
+    "n": 5
+   },
+   {
+    "nom": "Patta",
+    "slug": "patta",
+    "dans_app": true,
+    "n": 5
+   },
+   {
+    "nom": "Polar Skate Co",
+    "slug": "polar-skate-co",
+    "dans_app": false,
+    "n": 5
+   },
+   {
+    "nom": "Highland 2000",
+    "slug": "highland-2000",
+    "dans_app": false,
+    "n": 4
+   },
+   {
+    "nom": "Arte",
+    "slug": "arte",
+    "dans_app": true,
+    "n": 4
+   },
+   {
+    "nom": "Thinking Mu",
+    "slug": "thinking-mu",
+    "dans_app": true,
+    "n": 4
+   },
+   {
+    "nom": "Dime",
+    "slug": "dime",
+    "dans_app": true,
+    "n": 4
+   },
+   {
+    "nom": "Kotn",
+    "slug": "kotn",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Estudio Niksen",
+    "slug": "estudio-niksen",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Hiking Patrol",
+    "slug": "hiking-patrol",
+    "dans_app": true,
+    "n": 3
+   },
+   {
+    "nom": "Brixton",
+    "slug": "brixton",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "Le Minor",
+    "slug": "le-minor",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "Tranquille Émile",
+    "slug": "tranquille-emile",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "Colorful Standard",
+    "slug": "colorful-standard",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "Andersen-Andersen",
+    "slug": "andersen-andersen",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "Hast",
+    "slug": "hast",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Bonnegueule",
+    "slug": "bonnegueule",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Nude Project",
+    "slug": "nude-project",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Rains",
+    "slug": "rains",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Studio Nicholson",
+    "slug": "studio-nicholson",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Satisfy",
+    "slug": "satisfy",
+    "dans_app": true,
+    "n": 2
+   },
+   {
+    "nom": "Stan Ray",
+    "slug": "stan-ray",
+    "dans_app": false,
+    "n": 2
+   },
+   {
+    "nom": "Human With Attitude",
+    "slug": "human-with-attitude",
+    "dans_app": true,
+    "n": 1
+   }
+  ]
+ },
+ {
+  "slug": "marques-japonaises",
+  "titre": "Marques japonaises",
+  "demande": "fais une selections de marque japonaise pour en faire une video format court sympa",
+  "statut": "prête",
+  "date": "16/11/2026",
+  "maj": "2026-11-16T16:12:21+09:00",
+  "n": 99,
+  "lien": "https://damienrsl.github.io/selections/marques-japonaises/",
+  "url": "https://damienrsl.github.io/selections/marques-japonaises/",
+  "produits": "selections/marques-japonaises/selection.json",
+  "erreur": null,
+  "marques": [
+   {
+    "nom": "A Bathing Ape",
+    "slug": "a-bathing-ape",
+    "dans_app": false,
+    "n": 8
+   },
+   {
+    "nom": "Iron Heart",
+    "slug": "iron-heart",
+    "dans_app": false,
+    "n": 8
+   },
+   {
+    "nom": "Uniqlo",
+    "slug": "uniqlo",
+    "dans_app": true,
+    "n": 8
+   },
+   {
+    "nom": "WTAPS",
+    "slug": "wtaps",
+    "dans_app": false,
+    "n": 8
+   },
+   {
+    "nom": "Momotaro Jeans",
+    "slug": "momotaro-jeans",
+    "dans_app": false,
+    "n": 8
+   },
+   {
+    "nom": "Big John",
+    "slug": "big-john",
+    "dans_app": false,
+    "n": 8
+   },
+   {
+    "nom": "Snow Peak",
+    "slug": "snow-peak",
+    "dans_app": true,
+    "n": 7
+   },
+   {
+    "nom": "BlackEyePatch",
+    "slug": "blackeyepatch",
+    "dans_app": false,
+    "n": 7
+   },
+   {
+    "nom": "Graphpaper",
+    "slug": "graphpaper",
+    "dans_app": false,
+    "n": 7
+   },
+   {
+    "nom": "Japan Blue Jeans",
+    "slug": "japan-blue-jeans",
+    "dans_app": false,
+    "n": 7
+   },
+   {
+    "nom": "Markaware",
+    "slug": "markaware",
+    "dans_app": false,
+    "n": 6
+   },
+   {
+    "nom": "Taion",
+    "slug": "taion",
+    "dans_app": false,
+    "n": 4
+   },
+   {
+    "nom": "Kolor",
+    "slug": "kolor",
+    "dans_app": false,
+    "n": 4
+   },
+   {
+    "nom": "Neighborhood",
+    "slug": "neighborhood",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "RoToTo",
+    "slug": "rototo",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "Sacai",
+    "slug": "sacai",
+    "dans_app": false,
+    "n": 2
+   },
+   {
+    "nom": "Samurai Jeans",
+    "slug": "samurai-jeans",
+    "dans_app": false,
+    "n": 1
+   }
+  ]
+ }
+]

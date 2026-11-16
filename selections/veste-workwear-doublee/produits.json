@@ -1,0 +1,167 @@
+[
+ {
+  "marque": "Stan Ray",
+  "titre": "Rainproof Down Jacket (Olive)",
+  "prix": 102.9,
+  "barre": 245.0,
+  "image": "https://cdn.shopify.com/s/files/1/2425/1015/files/RAINPROOFDOWNJACKET_OLIVE-1_1.jpg?v=1753778968",
+  "url": "https://www.stanray.com/products/rainproof-down-jacket-olive-aw25",
+  "devise": "EUR",
+  "mot": "veste doublée",
+  "theme": "Autres"
+ },
+ {
+  "marque": "Brixton",
+  "titre": "Mechanic Garage Zip Lined Jacket - Rinse Denim",
+  "prix": 129.0,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/0415/3819/1512/files/eh1tvybq6kvnk4lqgwnu.jpg?v=1791313009",
+  "url": "https://www.brixton.com/products/mechanic-garage-zip-lined-jacket-rinse-denim",
+  "devise": "USD",
+  "mot": "veste doublée",
+  "theme": "Autres"
+ },
+ {
+  "marque": "Brixton",
+  "titre": "Builders Stretch Lined Jacket - Earth",
+  "prix": 149.0,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/0415/3819/1512/files/f0dbc93d61ef45d4ceb8930546051a9042c9892e.jpg?v=1783052823",
+  "url": "https://www.brixton.com/products/builders-stretch-lined-jacket-earth",
+  "devise": "USD",
+  "mot": "veste de travail",
+  "theme": "Autres"
+ },
+ {
+  "marque": "Rains",
+  "titre": "Lohja Insulated Jacket",
+  "prix": 189.0,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/0828/6178/5328/files/rains_lohja_insulated_jacket_w3t1_sage_thermal_women_1_0dcb99df-de2e-4e11-afd9-dad512c2729a.jpg?v=1787685768",
+  "url": "https://www.rains.com/products/lohja-jacket-female",
+  "devise": "EUR",
+  "mot": "veste doublée",
+  "theme": "Matelassée"
+ },
+ {
+  "marque": "Stüssy",
+  "titre": "INSULATED WORK JACKET RAW DENIM",
+  "prix": 250.0,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/0174/0580/4598/files/115835_RAWI_1_7602d458-606f-454c-b3a5-f30f56c0e4ca.jpg?v=1763552479",
+  "url": "https://eu.stussy.com/products/115835-insulated-work-jacket-raw-denim-indigo",
+  "devise": "EUR",
+  "mot": "veste doublée",
+  "theme": "Matelassée"
+ },
+ {
+  "marque": "Stüssy",
+  "titre": "POLAR FLEECE LINED JACKET",
+  "prix": 250.0,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/0174/0580/4598/files/115906_BLAC_3.jpg?v=1792532989",
+  "url": "https://eu.stussy.com/products/115906-polar-fleece-lined-jacket-black",
+  "devise": "EUR",
+  "mot": "veste sherpa",
+  "theme": "Sherpa et fourrure"
+ },
+ {
+  "marque": "Stüssy",
+  "titre": "SHERPA REVERSIBLE JACKET",
+  "prix": 230.0,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/0174/0580/4598/files/118529_.BSTO_1.jpg?v=1764345185",
+  "url": "https://eu.stussy.com/products/118529-sherpa-reversible-jacket-bluestone",
+  "devise": "EUR",
+  "mot": "veste sherpa",
+  "theme": "Sherpa et fourrure"
+ },
+ {
+  "marque": "Butter Goods",
+  "titre": "Insulated Work Jacket, Forest Camo",
+  "prix": 179.0,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/1428/9764/files/InsulatedWorkJacketForestCamo1.png?v=1778556801",
+  "url": "https://buttergoods.com/products/insulated-work-jacket-forest-camo-forest-camo-q226",
+  "devise": "AUD",
+  "mot": "veste doublée",
+  "theme": "Matelassée"
+ },
+ {
+  "marque": "Butter Goods",
+  "titre": "Insulated Work Jacket, Washed Slate",
+  "prix": 239.95,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/1428/9764/files/InsulatedWorkJacketWashedSlate1.png?v=1786346132",
+  "url": "https://buttergoods.com/products/insulated-work-jacket-washed-slate-washed-slate-q326",
+  "devise": "AUD",
+  "mot": "veste doublée",
+  "theme": "Matelassée"
+ },
+ {
+  "marque": "Taion",
+  "titre": "WORK CREW NECK CORDUROY×DOWN JACKET",
+  "prix": 135.0,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/0981/1863/1688/files/25AW_TAION-104BWK-CT_BLACK_M004.webp?v=1773592581",
+  "url": "https://taion-wear.eu/products/work-crew-neck-corduroy-down-jacket",
+  "devise": "EUR",
+  "mot": "veste de travail",
+  "theme": "Velours et laine"
+ },
+ {
+  "marque": "Taion",
+  "titre": "WORK W-ZIP LIB DOWN JACKET",
+  "prix": 145.0,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/0981/1863/1688/files/26AW_TAION-108WZWK_D.OLIVE_M002.webp?v=1790004152",
+  "url": "https://taion-wear.eu/products/work-w-zip-lib-down-jacket",
+  "devise": "EUR",
+  "mot": "veste de travail",
+  "theme": "Autres"
+ },
+ {
+  "marque": "Olow",
+  "titre": "Blouson Sherwood marine",
+  "prix": 203.0,
+  "barre": 290.0,
+  "image": "https://cdn.shopify.com/s/files/1/0958/0606/2922/files/blouson-sherwood-marine_1d928c30-ec72-4617-9248-872bfeeacf13.jpg?v=1776826468",
+  "url": "https://www.olow.fr/products/blouson-sherwood-marine",
+  "devise": "EUR",
+  "mot": "chore jacket",
+  "theme": "Bomber et blouson"
+ },
+ {
+  "marque": "Olow",
+  "titre": "Doudoune Boreas kaki",
+  "prix": 220.5,
+  "barre": 315.0,
+  "image": "https://cdn.shopify.com/s/files/1/0958/0606/2922/files/doudoune-boreas-kaki.jpg?v=1776826195",
+  "url": "https://www.olow.fr/products/doudoune-boreas-kaki",
+  "devise": "EUR",
+  "mot": "lined jacket",
+  "theme": "Matelassée"
+ },
+ {
+  "marque": "Taion",
+  "titre": "WORK W-ZIP HOOD LIB DOWN JACKET",
+  "prix": 175.0,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/0981/1863/1688/files/25AW_TAION-106WZWK_BLACK_M005.webp?v=1773592602",
+  "url": "https://taion-wear.eu/products/work-w-zip-hood-lib-down-jacket",
+  "devise": "EUR",
+  "mot": "chore jacket",
+  "theme": "Autres"
+ },
+ {
+  "marque": "Patta",
+  "titre": "Patta Corduroy Bomber Jacket (Demitasse)",
+  "prix": 248.0,
+  "barre": null,
+  "image": "https://cdn.shopify.com/s/files/1/0018/7793/4115/files/POC-AW26-3900-348-0052-416-F.jpg?v=1788352699",
+  "url": "https://www.patta.nl/products/patta-corduroy-bomber-jacket-demitasse",
+  "devise": "EUR",
+  "mot": "veste doublée",
+  "theme": "Bomber et blouson"
+ }
+]
