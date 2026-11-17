@@ -1055,5 +1055,38 @@
     "n": 1
    }
   ]
+ },
+ {
+  "slug": "bonnets-butter-goods",
+  "titre": "Bonnets Butter Goods",
+  "demande": "J'ai tellement aimé toutes les références de bonnets de la marque Buttergood que tu m'as sélectionnées. Que j'ai envie d'en faire une vidéo dédiée. Mon angle, c'est : « Arrête de porter des bonnets Arc'teryx et penche-toi sur ce que fait Butterboots. » Donc, ce que je vais te demander, c'est de scraper et de fouiller les différents revendeurs (Endclothing, Asphalt Gold, tout ça) pour venir me parler directement et me mettre en avant les différents bonnets de la marque. Regarde les références que t'as déjà mises en place, dont t'as déjà parlé, mais là, j'aime tellement ce que t'as fait que c'est très sympa. Une fois que t'as scrapé tout ça, avance de manière automatique et crée un menu de chat avec comme nom pour le déclencher « bonnet ». Mets-le dans les brouillons, et moi, juste avant de poster, j'aurai juste à l'activer. Évidemment, en plus de ça, fais la sélection directement sur Digger : sélection de bonnet, un nom comme ça.",
+  "statut": "prête",
+  "date": "16/11/2026",
+  "maj": "2026-11-16T20:09:05+09:00",
+  "n": 24,
+  "lien": "https://damienrsl.github.io/selections/bonnets-butter-goods/",
+  "url": "https://damienrsl.github.io/selections/bonnets-butter-goods/",
+  "produits": "selections/bonnets-butter-goods/selection.json",
+  "erreur": null,
+  "marques": [
+   {
+    "nom": "Butter Goods · site EU",
+    "slug": "butter-goods-site-eu",
+    "dans_app": false,
+    "n": 20
+   },
+   {
+    "nom": "END.",
+    "slug": "end",
+    "dans_app": false,
+    "n": 3
+   },
+   {
+    "nom": "Sneakersnstuff",
+    "slug": "sneakersnstuff",
+    "dans_app": false,
+    "n": 1
+   }
+  ]
  }
 ]
